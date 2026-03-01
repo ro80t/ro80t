@@ -5,14 +5,14 @@ I love web. I hate web.
 ## Activities
 
 <div algin="left">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=ro80t&show_icons=true&count_private=true&theme=onedark">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ro80t&show_icons=true&count_private=true&layout=compact&theme=onedark">
+  <img height="180px" src="./images/stats.svg">
+  <img height="180px" src="./images/top-langs.svg">
 </div>
 
 <br>
 
 <div>
-    <img style="width: 100%" src="https://github-profile-trophy.vercel.app/?username=ro80t&theme=onedark&count_private=true&column=10" />
+    <img style="width: 100%" src="./images/trophy.svg" />
 </div>
 
 <!--
