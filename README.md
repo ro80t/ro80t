@@ -16,7 +16,7 @@ I love web. I hate web.
 </div>
 
 <!--
-    [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=ro80t&layout=compact&theme=onedark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+    <img src="./images/wakatime.svg" />
 -->
 
 ## SNS
