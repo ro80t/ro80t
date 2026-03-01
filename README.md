@@ -21,7 +21,7 @@ I love web. I hate web.
 
 ## SNS
 
-- `Twitter` AlwaysHarapan
+- `Twitter` ro80t_dev
 - `GitHub` ro80t
 - `Discord` robot_official
 - `Qiita` ROBOTofficial
