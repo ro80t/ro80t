@@ -1,4 +1,4 @@
-name: Update README cards
+name: Update README images
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  upload:
+  update:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
@@ -20,12 +20,20 @@ jobs:
           path: images/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate stats card
+      - name: Generate top langs card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&show_icons=true&count_private=true&layout=compact&theme=onedark
           path: images/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate wakatime card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: wakatime
+          options: username=${{ github.repository_owner }}&layout=compact&theme=onedark&count_private=true
+          path: images/wakatime.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate trophy
