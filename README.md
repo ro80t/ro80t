@@ -21,7 +21,8 @@ I love web. I hate web.
 
 ## SNS
 
-- `Twitter` ro80t_dev
-- `GitHub` ro80t
+- `Twitter` [ro80t_dev](https://twitter.com/ro80t_dev)
+- `GitHub` [ro80t](https://github.com/ro80t)
+- `Qiita` [ROBOTofficial](https://qiita.com/ROBOTofficial)
+- `Zenn` [robot](https://zenn.dev/robot)
 - `Discord` robot_official
-- `Qiita` ROBOTofficial
