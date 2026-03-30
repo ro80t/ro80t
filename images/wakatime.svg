@@ -788,28 +788,28 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript - 682 hrs 37 mins
+        TypeScript - 682 hrs 41 mins
       </text>
     </g>
   
     <g transform="translate(230, 25)">
       <circle cx="5" cy="6" r="5" fill="#ff3e00" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Svelte - 208 hrs 44 mins
+        Svelte - 208 hrs 46 mins
       </text>
     </g>
   
     <g transform="translate(25, 50)">
       <circle cx="5" cy="6" r="5" fill="#dea584" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Rust - 156 hrs 48 mins
+        Rust - 156 hrs 51 mins
       </text>
     </g>
   
     <g transform="translate(230, 50)">
       <circle cx="5" cy="6" r="5" fill="#292929" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JSON - 82 hrs 5 mins
+        JSON - 82 hrs 8 mins
       </text>
     </g>
   
@@ -879,7 +879,7 @@
     <g transform="translate(230, 175)">
       <circle cx="5" cy="6" r="5" fill="#ff5a03" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Astro - 16 hrs 27 mins
+        Astro - 16 hrs 28 mins
       </text>
     </g>
   
@@ -928,7 +928,7 @@
     <g transform="translate(25, 275)">
       <circle cx="5" cy="6" r="5" fill="#fcb32c" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        MDX - 6 hrs 43 mins
+        MDX - 6 hrs 44 mins
       </text>
     </g>
   
