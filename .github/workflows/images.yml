@@ -8,7 +8,11 @@ on:
 
 jobs:
   update:
+    name: Update cards
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v6
@@ -54,3 +58,10 @@ jobs:
           git add images/*.svg
           git commit -m "Update README images" || exit 0
           git push
+
+      - name: Commit summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
