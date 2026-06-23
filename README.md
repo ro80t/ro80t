@@ -1,6 +1,6 @@
 # ROBOT
 
-I love web. I hate web.
+No programming No life.
 
 ## Activities
 
