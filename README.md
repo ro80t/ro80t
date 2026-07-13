@@ -12,8 +12,6 @@ No programming No life.
   <img height="180px" src="./images/top-langs.svg">
 </div>
 
-<br>
-
 <div>
     <img style="width: 100%" src="./images/trophy.svg" />
 </div>
