@@ -5,7 +5,7 @@ No programming No life.
 ## Activities
 
 <div>
-  <img style="width: 100%" src="./profile-summary-card-output/gruvbox/0-profile-details.svg">
+  <img src="./profile-summary-card-output/nord_dark/0-profile-details.svg">
 </div>
 <div algin="left">
   <img height="180px" src="./images/stats.svg">
