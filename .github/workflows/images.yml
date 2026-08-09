@@ -45,7 +45,7 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
             username: ${{ github.repository_owner }}
-            token: ${{ secrets.GITHUB_TOKEN }}
+            token: ${{ secrets.PAT_TOKEN }}
             file: images/trophy.svg
             theme: onedark
             max-rows: 1
