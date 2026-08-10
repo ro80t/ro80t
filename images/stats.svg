@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">ROBOT&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 30, Total Commits  (last year) : 2723, Total PRs: 304, Total Issues: 4, Contributed to (last year): 9</desc>
+        <desc id="descId">Total Stars Earned: 30, Total Commits  (last year) : 2706, Total PRs: 307, Total Issues: 4, Contributed to (last year): 9</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 90.24373810310522;
+        stroke-dashoffset: 90.20696687541792;
       }
     }
   
@@ -192,7 +192,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >304</text>
+      >307</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
