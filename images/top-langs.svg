@@ -138,7 +138,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="192.59"
+          width="192.62"
           height="8"
           fill="#3178c6"
         />
@@ -146,9 +146,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="192.59"
+          x="192.62"
           y="0"
-          width="19.98"
+          width="19.97"
           height="8"
           fill="#b07219"
         />
@@ -156,9 +156,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="212.57"
+          x="212.59"
           y="0"
-          width="16.45"
+          width="16.44"
           height="8"
           fill="#dea584"
         />
@@ -166,7 +166,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="229.01999999999998"
+          x="229.03"
           y="0"
           width="12.52"
           height="8"
@@ -176,7 +176,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="241.54"
+          x="241.55"
           y="0"
           width="15.08"
           height="8"
@@ -186,9 +186,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="246.62"
+          x="246.63000000000002"
           y="0"
-          width="13.379999999999999"
+          width="13.370000000000001"
           height="8"
           fill="#f1e05a"
         />
@@ -199,7 +199,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript 77.04%
+        TypeScript 77.05%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
@@ -213,7 +213,7 @@
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#dea584" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Rust 6.58%
+        Rust 6.57%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
